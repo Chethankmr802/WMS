@@ -34,4 +34,7 @@ Technology:- .net, Oracle.
 
 ![image](https://github.com/Chethankmr802/WMS/assets/123578114/d6ac1a22-1163-42c1-a69c-2c6be9e3c0b5)
 
+![image](https://github.com/Chethankmr802/WMS/assets/123578114/3338154e-bc3c-4d15-81db-e97ef82781de)
+
+
 
